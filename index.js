@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Starting a Mob..."];
+const statusMessage = ["Starting a Mob..."];
 
 
 let currentIndex = 0;
